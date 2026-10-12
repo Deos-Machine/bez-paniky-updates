@@ -1,13 +1,13 @@
 {
-  "version": "0.4.1",
+  "version": "0.5.0",
   "notes": [
-    "Питання «Світло зникло?» тепер і на головному екрані",
-    "Виправлено: віджети не додавалися на робочий стіл",
-    "Віджети показують приклад у списку віджетів",
-    "Замість довгої риски — «Все гаразд», коли відключень більше немає"
+    "Черга за адресою: застосунок сам знаходить твою чергу на сайті ДТЕК",
+    "Кнопка «Визначити за місцезнаходженням» — область, вулиця й будинок самі",
+    "Великий шрифт у системі більше не ламає екрани",
+    "Назви областей перекладено українською та англійською"
   ],
-  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.1/bez-paniky-0.4.1-arm64.apk",
-  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.1/bez-paniky-0.4.1-universal.apk",
-  "sha256_arm64": "e4fda3260ba811ca32177c20cd7af9a3d4fdf129d22d26087579e37d243297ee",
-  "sha256_universal": "4f191eb484b87e66efe26fd19b56a99c7a69e13cb5aa3a3b8cdace8ee5c3ae10"
+  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.5.0/bez-paniky-0.5.0-arm64.apk",
+  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.5.0/bez-paniky-0.5.0-universal.apk",
+  "sha256_arm64": "680748af6096175396ff79b0cedd522037b5d18ab46c9ae4a5e171b654b4c870",
+  "sha256_universal": "b968129329d738627b1b38759686559d29a02d1e2d36ea648ad924aa4d187e5e"
 }
