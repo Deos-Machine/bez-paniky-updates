@@ -1,13 +1,13 @@
 {
-  "version": "0.3.2",
+  "version": "0.4.0",
   "notes": [
-    "Англійська мова, вибір мови прямо в налаштуваннях",
-    "Час зарядки рахується сам: обери ємність і зарядку",
-    "Кнопка «Зберегти» більше не ховається під панеллю",
-    "«Вікно для справ» підказує, коли далі графік ще невідомий"
+    "Світло по факту: телефон сам помічає, коли зникло й повернулося світло",
+    "«Зазвичай повертають о 20:12» — прогноз точніший за графік",
+    "Питання «Світло зникло?» з кнопками прямо в сповіщенні",
+    "Журнал подій і точність графіка твоєї черги"
   ],
-  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.2/bez-paniky-0.3.2-arm64.apk",
-  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.2/bez-paniky-0.3.2-universal.apk",
-  "sha256_arm64": "b3f85721351a92511d01719b6c4115347ea27db3f3607339ecfd3a3226ea7bfb",
-  "sha256_universal": "293141c6e54cc537df79485e6b3d339a6a7a3224ee700615d72d51a23f98de48"
+  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.0/bez-paniky-0.4.0-arm64.apk",
+  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.0/bez-paniky-0.4.0-universal.apk",
+  "sha256_arm64": "e293b956dd301a4927018b6892a4790e78f2c6ff1d5bd0e2b60d3e796306af3f",
+  "sha256_universal": "b6852ea4b1c0bd9eb4e8dec569fd052cd9e8114c0ddd9323ee2336bdcc1ba101"
 }
