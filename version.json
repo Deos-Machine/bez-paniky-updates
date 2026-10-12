@@ -1,12 +1,13 @@
 {
-  "version": "0.3.1",
+  "version": "0.3.2",
   "notes": [
-    "Нова назва та іконка «Без паніки»",
-    "Застосунок сам підказує, коли вийде оновлення",
-    "Спокійніші тексти сповіщень"
+    "Англійська мова, вибір мови прямо в налаштуваннях",
+    "Час зарядки рахується сам: обери ємність і зарядку",
+    "Кнопка «Зберегти» більше не ховається під панеллю",
+    "«Вікно для справ» підказує, коли далі графік ще невідомий"
   ],
-  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.1/bez-paniky-0.3.1-arm64.apk",
-  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.1/bez-paniky-0.3.1-universal.apk",
-  "sha256_arm64": "06268003eb9a90e9f6d9fd6499b235f8ceab51c695ce495049918422087a2d07",
-  "sha256_universal": "0a2f63038c636e71eba2c2e42492be82ff0f95e3305c79a2b0852c4d5639571d"
+  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.2/bez-paniky-0.3.2-arm64.apk",
+  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.2/bez-paniky-0.3.2-universal.apk",
+  "sha256_arm64": "b3f85721351a92511d01719b6c4115347ea27db3f3607339ecfd3a3226ea7bfb",
+  "sha256_universal": "293141c6e54cc537df79485e6b3d339a6a7a3224ee700615d72d51a23f98de48"
 }
