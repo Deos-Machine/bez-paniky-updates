@@ -1,13 +1,12 @@
 {
-  "version": "0.5.0",
+  "version": "0.5.1",
   "notes": [
-    "Черга за адресою: застосунок сам знаходить твою чергу на сайті ДТЕК",
-    "Кнопка «Визначити за місцезнаходженням» — область, вулиця й будинок самі",
-    "Великий шрифт у системі більше не ламає екрани",
-    "Назви областей перекладено українською та англійською"
+    "Чернігівщина: пишеш адресу — застосунок сам дізнається чергу в Чернігівобленерго",
+    "Інші області: пошук обленерго відкривається в застосунку, а не в Google, і знайдена черга підхоплюється сама",
+    "Акуратніший напис «Все гаразд» на головному екрані"
   ],
-  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.5.0/bez-paniky-0.5.0-arm64.apk",
-  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.5.0/bez-paniky-0.5.0-universal.apk",
-  "sha256_arm64": "680748af6096175396ff79b0cedd522037b5d18ab46c9ae4a5e171b654b4c870",
-  "sha256_universal": "b968129329d738627b1b38759686559d29a02d1e2d36ea648ad924aa4d187e5e"
+  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.5.1/bez-paniky-0.5.1-arm64.apk",
+  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.5.1/bez-paniky-0.5.1-universal.apk",
+  "sha256_arm64": "d855242263b821a4e9348a1bf1268fa63d4be761996259bc20529b268dccdbeb",
+  "sha256_universal": "ca1cca563ac5e7c82134f15c24e773e5a22c7f13be599d1fe214c5433b975acd"
 }
