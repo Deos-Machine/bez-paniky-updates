@@ -1,0 +1,12 @@
+{
+  "version": "0.3.1",
+  "notes": [
+    "Нова назва та іконка «Без паніки»",
+    "Застосунок сам підказує, коли вийде оновлення",
+    "Спокійніші тексти сповіщень"
+  ],
+  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.1/bez-paniky-0.3.1-arm64.apk",
+  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.3.1/bez-paniky-0.3.1-universal.apk",
+  "sha256_arm64": "06268003eb9a90e9f6d9fd6499b235f8ceab51c695ce495049918422087a2d07",
+  "sha256_universal": "0a2f63038c636e71eba2c2e42492be82ff0f95e3305c79a2b0852c4d5639571d"
+}
