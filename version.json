@@ -1,13 +1,13 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "notes": [
-    "Світло по факту: телефон сам помічає, коли зникло й повернулося світло",
-    "«Зазвичай повертають о 20:12» — прогноз точніший за графік",
-    "Питання «Світло зникло?» з кнопками прямо в сповіщенні",
-    "Журнал подій і точність графіка твоєї черги"
+    "Питання «Світло зникло?» тепер і на головному екрані",
+    "Виправлено: віджети не додавалися на робочий стіл",
+    "Віджети показують приклад у списку віджетів",
+    "Замість довгої риски — «Все гаразд», коли відключень більше немає"
   ],
-  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.0/bez-paniky-0.4.0-arm64.apk",
-  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.0/bez-paniky-0.4.0-universal.apk",
-  "sha256_arm64": "e293b956dd301a4927018b6892a4790e78f2c6ff1d5bd0e2b60d3e796306af3f",
-  "sha256_universal": "b6852ea4b1c0bd9eb4e8dec569fd052cd9e8114c0ddd9323ee2336bdcc1ba101"
+  "apk_arm64": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.1/bez-paniky-0.4.1-arm64.apk",
+  "apk_universal": "https://github.com/Deos-Machine/bez-paniky-updates/releases/download/v0.4.1/bez-paniky-0.4.1-universal.apk",
+  "sha256_arm64": "e4fda3260ba811ca32177c20cd7af9a3d4fdf129d22d26087579e37d243297ee",
+  "sha256_universal": "4f191eb484b87e66efe26fd19b56a99c7a69e13cb5aa3a3b8cdace8ee5c3ae10"
 }
